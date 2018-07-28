@@ -1,2 +1,2 @@
 # Python
-Python programming contents and information
+Python programming contents and information.
