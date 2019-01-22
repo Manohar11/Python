@@ -1,2 +1,2 @@
 # Python
-Python programming contents and information.
+Python programming concepts related to data analytics
